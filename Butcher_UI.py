@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import yfinance as yf
 import streamlit as st
 import pickle
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, classification_report, roc_auc_score
+from scikit-learn.model_selection import train_test_split
+from scikit-learn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, classification_report, roc_auc_score
 import seaborn as sns
 import datetime
 
