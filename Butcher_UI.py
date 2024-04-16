@@ -153,7 +153,7 @@ y = extremas_df['Type']
 #Split into training and testing data
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4, random_state=42)
 
-model = pickle.load(open('projectModelLR.sav', 'rb'))
+model = pickle.load(open('Butcher_Model.sav', 'rb'))
 model.fit(X_train, y_train)
 
 #Predicting probabilities for targets
