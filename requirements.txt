@@ -5,4 +5,4 @@ yfinance
 streamlit                                                  
 seaborn
 datetime
-scikit-learn
+sklearn
