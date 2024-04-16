@@ -4,3 +4,5 @@ matplotlib.pyplot as plt
 yfinance as yf                                                   
 streamlit as st                                                  
 pickle   
+seaborn as sns
+datetime
