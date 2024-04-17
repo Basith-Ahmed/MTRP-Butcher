@@ -49,25 +49,25 @@ The data used in this project is sourced from Yahoo Finance, covering daily pric
 Edit the config.py file to modify the parameters of the logistic regression model, including the choice of technical indicators and the thresholds for "buy" and "sell" predictions.
 
 ## Contributing
-Contributions to this project are welcome. To contribute:
+Contributions to this project are welcome. To contribute: <br/>
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes.
-Commit your changes (git commit -am 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Submit a new Pull Request.
+Fork the repository. <br/>
+Create a new branch (git checkout -b feature-branch).<br/>
+Make your changes.<br/>
+Commit your changes (git commit -am 'Add some feature').<br/>
+Push to the branch (git push origin feature-branch).<br/>
+Submit a new Pull Request.<br/>
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Basith Ahmed - Link[https://www.linkedin.com/in/basith-ahmed/]
-Project - Link[https://github.com/Basith-Ahmed/MTRP-Butcher]
+Basith Ahmed - [Link](https://www.linkedin.com/in/basith-ahmed/)
+Project - [Link](https://github.com/Basith-Ahmed/MTRP-Butcher)
 
 ## Acknowledgements
-Yahoo Finance for providing the data.
-Contributors who have participated in this project.
+Yahoo Finance for providing the data.<br/>
+Contributors who have participated in this project.<br/>
 ```
 This README is structured to provide a comprehensive overview and guide on how to set up and run the project, emphasizing clarity and ease of use. Adjust as necessary to fit the particulars of your project's setup and goals.
 ```
