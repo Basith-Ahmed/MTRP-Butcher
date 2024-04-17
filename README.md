@@ -51,12 +51,12 @@ Edit the config.py file to modify the parameters of the logistic regression mode
 ## Contributing
 Contributions to this project are welcome. To contribute: <br/>
 
-Fork the repository. <br/>
-Create a new branch (git checkout -b feature-branch).<br/>
-Make your changes.<br/>
-Commit your changes (git commit -am 'Add some feature').<br/>
-Push to the branch (git push origin feature-branch).<br/>
-Submit a new Pull Request.<br/>
+- Fork the repository. <br/>
+- Create a new branch (git checkout -b feature-branch).<br/>
+- Make your changes.<br/>
+- Commit your changes (git commit -am 'Add some feature').<br/>
+- Push to the branch (git push origin feature-branch).<br/>
+- Submit a new Pull Request.<br/>
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
@@ -68,6 +68,5 @@ Project - [Link](https://github.com/Basith-Ahmed/MTRP-Butcher)
 ## Acknowledgements
 Yahoo Finance for providing the data.<br/>
 Contributors who have participated in this project.<br/>
-```
+
 This README is structured to provide a comprehensive overview and guide on how to set up and run the project, emphasizing clarity and ease of use. Adjust as necessary to fit the particulars of your project's setup and goals.
-```
