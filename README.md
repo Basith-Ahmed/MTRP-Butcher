@@ -23,3 +23,51 @@ Clone this repository to your local machine:
 git clone https://github.com/yourusername/market-trend-prediction.git
 cd market-trend-prediction
 ```
+
+##Usage
+To run the model training and prediction script, navigate to the project directory and run:
+```bash
+python model_training.py
+```
+
+##Directory Structure
+```bash
+market-trend-prediction/
+│
+├── data/                  # Folder for datasets
+├── models/                # Trained model files
+├── notebooks/             # Jupyter notebooks for exploration and tests
+├── scripts/               # Python scripts for training and prediction
+├── outputs/               # Output files, graphs, and figures
+└── README.md              # Project documentation
+```
+
+##Data
+The data used in this project is sourced from Yahoo Finance, covering daily price movements of Bitcoin (BTC-USD) from January 1, 2020, to January 1, 2024 by default which you can change as required.
+
+##Configurations
+Edit the config.py file to modify the parameters of the logistic regression model, including the choice of technical indicators and the thresholds for "buy" and "sell" predictions.
+
+##Contributing
+Contributions to this project are welcome. To contribute:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Make your changes.
+Commit your changes (git commit -am 'Add some feature').
+Push to the branch (git push origin feature-branch).
+Submit a new Pull Request.
+
+##License
+Distributed under the MIT License. See LICENSE for more information.
+
+##Contact
+Basith Ahmed - Link[https://www.linkedin.com/in/basith-ahmed/]
+Project - Link[https://github.com/Basith-Ahmed/MTRP-Butcher]
+
+##Acknowledgements
+Yahoo Finance for providing the data.
+Contributors who have participated in this project.
+```
+This README is structured to provide a comprehensive overview and guide on how to set up and run the project, emphasizing clarity and ease of use. Adjust as necessary to fit the particulars of your project's setup and goals.
+```
