@@ -62,7 +62,7 @@ Contributions to this project are welcome. To contribute: <br/>
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Basith Ahmed - [Link](https://www.linkedin.com/in/basith-ahmed/)
+Basith Ahmed - [Link](https://www.linkedin.com/in/basith-ahmed/) <br/>
 Project - [Link](https://github.com/Basith-Ahmed/MTRP-Butcher)
 
 ## Acknowledgements
