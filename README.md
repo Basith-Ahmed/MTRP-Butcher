@@ -67,6 +67,4 @@ Project - [Link](https://github.com/Basith-Ahmed/MTRP-Butcher)
 
 ## Acknowledgements
 Yahoo Finance for providing the data.<br/>
-Contributors who have participated in this project.<br/>
-
-This README is structured to provide a comprehensive overview and guide on how to set up and run the project, emphasizing clarity and ease of use. Adjust as necessary to fit the particulars of your project's setup and goals.
+Contributors who have participated in this project.
