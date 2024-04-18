@@ -20,23 +20,21 @@ Before running this project, ensure you have the following installed:
 ## Installation
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/market-trend-prediction.git
-cd market-trend-prediction
+git clone https://github.com/Basith-Ahmed/MTRP-Butcher.git
+cd mtrp-butcher
 ```
 
 ## Usage
 To run the model training and prediction script, navigate to the project directory and run:
 ```bash
-python model_training.py
+python Butcher_UI.py
 ```
 
 ## Directory Structure
 ```bash
-market-trend-prediction/
+mtrp-butcher/
 │
 ├── data/                  # Folder for datasets
-├── models/                # Trained model files
-├── notebooks/             # Jupyter notebooks for exploration and tests
 ├── scripts/               # Python scripts for training and prediction
 ├── outputs/               # Output files, graphs, and figures
 └── README.md              # Project documentation
