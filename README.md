@@ -34,10 +34,10 @@ python Butcher_UI.py
 ```bash
 mtrp-butcher/
 │
-├── data/                  # Folder for datasets
-├── scripts/               # Python scripts for training and prediction
-├── outputs/               # Output files, graphs, and figures
-└── README.md              # Project documentation
+├── Butcher_Model.sav
+├── Butcher_UI.py
+├── requirements.txt
+└── README.md
 ```
 
 ## Data
