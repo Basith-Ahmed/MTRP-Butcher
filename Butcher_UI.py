@@ -9,8 +9,8 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 import seaborn as sns
 import datetime
 
-st.title('Stock trend prediction')
-ticker_symbol = st.text_input('Enter Stock ticker','BTC-USD')
+st.title('Stock Trend Predictor')
+ticker_symbol = st.text_input('Enter Stock Ticker','BTC-USD')
 start = st.date_input("Start Date", datetime.date(2021, 1, 1))
 end = st.date_input("End Date", datetime.date(2024, 1, 1))
 tS = float(st.text_input('Enter Sell Threshold',"0.1"))
@@ -22,7 +22,7 @@ data = data.reset_index()
 st.subheader("Data from {start} to {end}".format(start=start, end=end))
 st.write(data)
 
-st.subheader("Closing Price VS Time Chart")
+st.subheader("Closing Price Vs Time Chart")
 
 ema_periods = [5, 25, 50, 99, 200]
 for period in ema_periods:
@@ -44,7 +44,7 @@ for i, period in enumerate(ema_periods):
     column_name = f'EMA_{period}'
     plt.plot(data.index, data[column_name], label=f'EMA {period}', color=colors[i])
 
-plt.title('Bitcoin Price with Exponential Moving Averages')
+plt.title('Asset Price with Exponential Moving Averages')
 plt.xlabel('Date')
 plt.ylabel('Price')
 plt.legend()
